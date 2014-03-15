@@ -1,0 +1,7 @@
+name: Bukkit1559TestPlugin
+version: 1.0.0
+main: com.techshroom.bukkit.plugin.TestPlugin
+commands:
+    cancel-spawns:
+        description: Toggles canceling spawns of non-living entities.
+        usage: /cancel-spawns
